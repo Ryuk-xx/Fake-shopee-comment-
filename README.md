@@ -1,5 +1,5 @@
 # Dự án phân loại bình luận Shopee giả mạo do máy tạo
-Đây là dự án sử dụng các mô hình llm được huấn luyện trên dữ liệu thực tế là bình luận của người dùng trên nền tảng mua sắm trực tuyến Shopee để phân loại các bình luận giả mạo do máy tính tạo ra. Từ đó có thể loại bỏ các bình luận này để tăng tính chân thật cho đánh giá sản phẩm
+Đây là dự án sử dụng các mô hình llm được huấn luyện trên dữ liệu thực tế là bình luận của người dùng trên nền tảng mua sắm trực tuyến Shopee để phân loại các bình luận giả mạo do máy tính tạo ra. Từ đó có thể loại bỏ các bình luận này để tăng tính chân thật cho đánh giá sản phẩm.
 
 ## Cấu trúc dự án
 
@@ -31,14 +31,14 @@ Hoặc tải trực tiếp từ đường dẫn: https://www.kaggle.com/datasets
 
 ## Hướng dẫn sử dụng
 ### 1. Quy trình hoạt động 
-#### a. Tải các thư viện và bộ dữ liệu như trên
-#### b. Xử lý và lấy mẫu dữ liệu
+####   a. Tải các thư viện và bộ dữ liệu như trên
+####   b. Xử lý và lấy mẫu dữ liệu
 Chạy script shopee.ipynb
-#### c. Fine tune mô hình GPT2-vn trên tập huấn luyện
+####   c. Fine tune mô hình GPT2-vn trên tập huấn luyện
 Chạy script create_fine_tuned_gpt2.ipynb 
-#### d. Tạo bình luận giả mạo bằng LLM
+####   d. Tạo bình luận giả mạo bằng LLM
 Chạy script create_data_generation.ipynb
-#### e. Xây dựng model phân loại bình luận giả mạo 
+####   e. Xây dựng model phân loại bình luận giả mạo 
 Chạy script main.ipynb
 
 ## Chú ý:

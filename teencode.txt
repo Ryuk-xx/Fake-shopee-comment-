@@ -1,0 +1,428 @@
+ctrai	con trai
+khôg	không
+bme	bố mẹ
+cta	chúng ta
+mih	mình
+mqh	mối quan hệ
+cgai	con gái
+nhữg	những
+mng	mọi người
+svtn	sinh viên tình nguyện
+sv	sinh viên
+qtam	quan tâm
+thươg	thương
+thw	thương
+qtâm	quan tâm
+chug	chung
+trườg	trường
+thoy	thôi
+hoi	thôi
+đki	đăng ký
+ạk	ạ
+í	ý
+t	tôi
+cùg	cùng
+pn	bạn
+pjt	biết
+thjk	thích
+ktra	kiểm tra
+nek	nè
+cgái	con gái
+nthe	như thế
+chúg	chúng
+kái	cái
+tìh	tình
+phòg	phòng
+lòg	lòng
+từg	từng
+rằg	rằng
+sốg	sống
+thuj	thôi
+thui	thôi
+thuơg	thương
+càg	càng
+đky	đăng ký
+bằg	bằng
+sviên	sinh viên
+ák	á
+đág	đáng
+nvay	như vậy
+nv	như vậy
+nhjeu	nhiều
+xg	xuống
+zồi	rồi
+trag	trang
+zữ	dữ
+xự	sự
+atrai	anh trai
+kte	kinh tế
+độg	động
+gắg	gắng
+đzai	đẹp trai
+thgian	thời gian
+plz	please
+đồg	đồng
+btrai	bạn trai
+nthê	như thế
+vọg	vọng
+đôg	đông
+răg	răng
+thườg	thường
+tcảm	tình cảm
+đứg	đứng
+ksao	không sao
+dz	đẹp trai
+cmày	chúng mày
+xuốg	xuống
+nkư	như
+lquan	liên quan
+tiếg	tiếng
+xih	xinh
+hìh	hình
+thàh	thành
+ngke	nghe
+dzậy	dậy
+tnào	thế nào
+tưởg	tưởng
+ctrinh	chương trình
+phog	phong
+hôg	không
+zìa	gì
+kũg	cũng
+ntnao	như thế nào
+trọg	trọng
+nthế	như thế
+năg	năng
+ngđó	người đó
+lquen	làm quen
+riêg	riêng
+ngag	ngang
+bnhiu	bao nhiêu
+ngốk	ngốc
+kậu	cậu
+kqua	kết quả
+htrc	hôm trước
+địh	định
+gđình	gia đinh
+giốg	giống
+csống	cuộc sống
+zùi	rồi
+r	rồi
+tr	trời
+ch	chưa
+cs	có
+bnhiêu	bao nhiêu
+cbị	chuẩn bị
+kòn	còn
+buôg	buông
+csong	cuộc sống
+chàg	chàng
+chăg	chăng
+ngàh	ngành
+llac	liên lạc
+nkưng	nhưng
+nắg	nắng
+tíh	tính
+khoảg	khoảng
+thík	thích
+ngđo	người đó
+ngkhác	người khác
+thẳg	thẳng
+kảm	cảm
+dàh	dành
+lặg	lặng
+vđê	vấn đề
+bbè	bạn bè
+bóg	bóng
+dky	đăng ký
+dòg	dòng
+uốg	uống
+tyêu	tình yêu
+xợ	sợ
+snvv	sinh nhật vui vẻ
+đthoại	điện thoại
+qhe	quan hệ
+cviec	công việc
+tượg	tượng
+qà	quà
+thjc	thích
+nhưq	nhưng
+cđời	cuộc đời
+bthường	bình thường
+zà	già
+đáh	đánh
+xloi	xin lỗi
+qtrọng	quan trọng
+bìh	bình
+lzi	làm gì
+qhệ	quan hệ
+lz	làm gì
+đóg	đóng
+cka	cha
+lgi	làm gì
+nvậy	như vậy
+qả	quả
+đkiện	điều kiện
+nà	nè
+nèk	nè
+tlai	tương lai
+bsĩ	bác sĩ
+hkì	học kỳ
+vde	vấn đề
+chta	chúng ta
+òy	rồi
+ltinh	linh tinh
+ngyeu	người yêu
+đthoai	điện thoại
+snghĩ	suy nghĩ
+nặg	nặng
+họk	học
+dừg	dừng
+hphúc	hạnh phúc
+wtâm	quan tâm
+thíck	thích
+chuện	chuyện
+lạh	lạnh
+ntnày	như thế này
+lúk	lúc
+ms	mới
+nyêu	người yêu
+c	chị
+kb	kết bạn
+dthương	dễ thương
+dthw	dễ thương
+ctrình	chương trình
+mìnk	mình
+mjh	mình
+ng	người
+vc	vợ chồng
+uhm	ừm
+thỳ	thì
+nyc	người yêu cũ
+tks	thanks
+thks	thanks
+ths	thanks
+nàg	nàng
+đjên	điên
+bgái	bạn gái
+xink	xinh
+hđộng	hành động
+đhọc	đại học
+đh	đại học
+mk	mình
+bn	bạn
+b	bạn
+thik	thích
+cj	chị
+mn	mọi người
+nguoi	người
+nóg	nóng
+hok	không
+ko	không
+bik	biết
+pik	biết
+pit	biết
+kbiet	không biết
+vs	với
+cx	cũng
+cug	cũng
+mik	mình
+mink	mình
+wtf	what the fuck
+cmt	comment
+ck	chồng
+chk	chồng
+ngta	người ta
+gđ	gia đình
+oh	ồ
+vk	vợ
+ctác	công tác
+sg	sài gòn
+ae	anh em
+ah	à
+ạh	ạ
+rì	gì
+vn	việt nam
+cũg	cũng
+đag	đang
+ace	anh chị em
+àk	à
+uh	ừ
+na	nha
+ne	nè
+cmm	con mẹ mày
+cmnr	con mẹ nó rồi
+hnay	hôm nay
+ukm	ừm
+tq	trung quốc
+ctr	chương trình
+nch	nói chuyện
+trieu	triệu
+nta	người ta
+ngèo	nghèo
+kêh	kênh
+ak	á
+ad	quản trị viên
+j	gì
+ny	người yêu
+qc	quảng cáo
+baoh	bao giờ
+zui	vui
+zẻ	vẻ
+tym	tim
+aye	anh yêu em
+eya	em yêu anh
+fb	facebook
+insta	instagram
+ig	instagram
+z	vậy
+thich	thích
+đt	điện thoại
+hảnh	hình ảnh
+acc	account
+loz	lồn
+trc	trước
+chẳg	chẳng
+dell	đéo
+chs	chẳng hiểu sao
+đhs	đéo hiểu sao
+đhieu	đéo hiểu
+qá	quá
+ntn	như thế nào
+wá	quá
+zậy	vậy
+zô	vô
+ytb	youtube
+vđ	vãi đái
+vchg	vãi chưởng
+sml	sấp mặt lờ
+xl	xin lỗi
+cmn	con mẹ nó
+face	facebook
+tui	tôi
+vv	vui vẻ
+ns	nói
+iu	yêu
+vcđ	vãi cải đái
+in4	info
+qq	quần què
+kh	không
+zạ	vậy
+oy	rồi
+jo	giờ
+troai	trai
+wa	quá
+e	em
+ik	đi
+ji	gì
+ce	chị em
+lm	làm
+đz	đẹp giai
+sr	sorry
+ib	inbox
+rep	reply
+hoy	thôi
+đbh	đéo bao giờ
+k	không
+vd	ví dụ
+a	anh
+v	vậy
+unfr	unfriend
+my fen	my friend
+fen	friend
+cty	công ty
+kô	không
+đtqg	đội tuyển quốc gia
+hqua	hôm qua
+xog	xong
+uk	ừ
+nhoé	nhé
+biet	biết
+stk	số tài khoản
+đươc	được
+nghành	ngành
+ngừoi	người
+trog	trong
+trg	trong
+tgian	thời gian
+biêt	biết
+fải	phải
+ngừ	người
+đg	đường
+tđn	thế đéo nào
+bth	bình thường
+vcđ	vãi cả đái
+khg	không
+nhưg	nhưng
+nhg	nhưng
+nhx	nhưng
+thpt	trung học phổ thông
+cskh	chăm sóc khách hàng
+thằg	thằng
+đuợc	được
+dc	được
+đc	được
+dk	được
+ah	à
+àh	à
+hửm	hả
+hử	hả
+hỉ	hả
+onl	online
+zô	dô
+cmnd	chứng minh nhân dân
+cccd	căn cước công dân
+sđt	số điện thoại
+klq	không liên quan
+ks	khách sạn
+kg	không
+hanoi	hà nội
+tphcm	thành phố hồ chí minh
+hok	không
+nx	nữa
+sp	sản phẩm
+sph	sản phẩm
+sd	sử dụng
+tn	tin nhắn
+ntin	nhắn tin
+ùi	rồi
+pk	phải
+gh	giao hàng
+hssv	học sinh sinh viên
+ln	luôn
+lun	luôn
+luon	luôn
+okela	ok
+oke	ok
+okie	ok
+uki	ok
+uke	ok
+kela	ok
+okla	ok
+âu cơ	ok
+ô kê	ok
+ố kê	ok
+ố kề	ok
+nchung	nói chung
+bh	bao giờ
+bthg	bình thường
+sz	size
+tl	trả lời
+trl	trả lời
+nma	nhưng mà
+nhma	nhưng mà
+đep	đẹp
+dẹp	đẹp
+tôt	tốt
+dỏm	dởm
+gê	ghê
+góm	gớm
+mỏg	mỏng
+sóp	shop
+lămz	lắm
+lém	lắm
+khók	khóc
+hk	không
+bgái	bạn gái
+cute	dễ thương
+xih	xinh

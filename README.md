@@ -6,7 +6,8 @@
 ```
 ├── shopee.ipynb                   # Script lấy mẫu và tiền xử lý dữ liệu comments trên shopee 
 ├── create_fine_tuned_gpt2.ipynb   # Script fine tune model LLM GPT2 trên dữ liệu shopee
-├── create_data_generation         # Script sử dụng fine-tuned GPT2 để sinh các fake comments
+├── create_data_generation.ipynb   # Script sử dụng fine-tuned GPT2 để sinh các fake comments
+├── data_preprocessing.ipynb       # Tiền xử lý dữ liệu
 ├── main.ipynb                     # Xây dựng các mô hình phân loại comments giả mạo
 └── shopee_data/                   # Thư mục chứa dữ liệu comments sau khi tiền xử lý và sinh bởi LLM
 ```
@@ -41,6 +42,8 @@ Chạy script create_data_generation.ipynb
 ####   e. Xây dựng model phân loại bình luận giả mạo 
 Chạy script main.ipynb
 
+
 ## Chú ý:
+- File data_preprocessing.ipynb là option code tùy chọn để xem xét việc tiền xử lý hay không thì sẽ có kết quả tốt hơn
 - Việc huấn luyện trên mô hình lớn cần GPU đủ mạnh, khuyến khích sử dụng kaggle notebook hoặc gg colab để huấn luyện
 - Trong main.ipynb đang sử dụng mặc định là model NlpHUST/bert-base-vn trên HunggingFace, có thể sử dụng một số mô hình khác: vinai/phobert-base-v2, FacebookAI/xlm-roberta-base
